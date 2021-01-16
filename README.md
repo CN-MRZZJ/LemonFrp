@@ -24,7 +24,7 @@ LemonFrp为MrZhu_Zhujun为主导的Lemonnet团队自营的内网穿透服务。�
 
 4. 根据收费标准付款，并发送付款截图
 
-5. 下载相应的Release Pack
+5. 下载相应的[Release Pack](https://github.com/ZhuZhujun0718/LemonFrp/releases)
 
 6. 根据客服发送的Token，修改```frpc.ini```
 
